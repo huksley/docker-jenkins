@@ -10,4 +10,6 @@ Adds following components:
   * ruby
   * jekyll
   * maven 3.3.9
+  * nuget
+
 
