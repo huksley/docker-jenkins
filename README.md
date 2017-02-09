@@ -11,5 +11,5 @@ Adds following components:
   * jekyll
   * maven 3.3.9
   * nuget
-
+  * 7zip
 
