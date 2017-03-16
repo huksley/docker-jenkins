@@ -12,4 +12,5 @@ Adds following components:
   * maven 3.3.9
   * nuget
   * 7zip
-
+  
+https://hub.docker.com/r/huksley/jenkins/
